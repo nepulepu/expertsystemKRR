@@ -1,4 +1,3 @@
-from logging import currentframe
 import telebot
 import os
 import time
